@@ -26,6 +26,7 @@ def get_filters():
         --Another Comment added for Git Versioning - please ignore this line as well
         --Refactor code comment 1 - please ignore this line as well
         --Refactor code comment 2 - please ignore this line as well
+        --Refactor code comment 2 - please ignore this line as well
     """
     print('Hello! Let\'s explore some US bikeshare data!')
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
