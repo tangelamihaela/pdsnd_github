@@ -7,7 +7,7 @@
 ### Description
 This repository contains projects for Udacity Nanodegree - Programming for Data Science with Python. There were three different training sections to perform and for each section we needed to work on a Project and submit it:
 
-*** Project 1
+*** Project 1 ***
 
 For the fisrt project we needed to explore a database of available movie rentals, create and execute SQL queries, and create visualizations to display the results of these queries.
 
