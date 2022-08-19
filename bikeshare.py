@@ -23,6 +23,7 @@ def get_filters():
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
         
         --Comment added for Git Versioning - please ignore this line (Line 25)
+        --Another Comment added for Git Versioning - please ignore this line as well
     """
     print('Hello! Let\'s explore some US bikeshare data!')
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
